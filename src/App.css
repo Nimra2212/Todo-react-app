@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300&display=swap');
+
 .mainDiv{
   align-items: center;
   justify-content: center;
@@ -9,7 +10,6 @@
 }
 input{
   box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%) !important;
- 
   outline: none;
   height: 45px;
     width: 290px;
@@ -25,20 +25,6 @@ input{
 .list-group-item{
   width: 300px !important;
 }
-/* button{
-  height: 60px;
-    border-radius: 50px;
-    outline: none !important;
-    border: 2px solid orange;
-    background-color: orange;
-    width: 60px;
-    margin-left: -50px;
-    box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%) !important;
-  cursor: pointer;
-  
-} */
-
-
 li{
   box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%) !important;
   font-family: 'Libre Franklin', sans-serif !important;
@@ -49,5 +35,4 @@ button{
   box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%) !important;
   height: 50px;
   margin-top: -1px !important;
-  /* border-radius: 50px !important; */
 }
